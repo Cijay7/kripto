@@ -1,0 +1,4 @@
+PyQt6==6.6.1
+PyQt6-sip==13.6.0
+numpy==1.24.3
+Pillow==10.0.0
